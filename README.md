@@ -58,7 +58,7 @@ Flight_Price_Prediction/
 ├── models/
 │   └── flight_price_prediction_pipeline.pkl
 │
-├── notebooks/
+├── notebook/
 │   └── 01_Data_Inspection.ipynb
 │
 ├── app.py
@@ -72,13 +72,13 @@ Flight_Price_Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Mrinal-Dutta/Flight-Price-Prediction.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd Flight_Price_Prediction
+cd Flight-Price-Prediction
 ```
 
 ### 3. Install dependencies
