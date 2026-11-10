@@ -66,7 +66,13 @@ Flight_Price_Prediction/
 ├── README.md
 └── .gitignore
 ```
+## Dataset Setup
 
+1. Download the flight price dataset from Kaggle.
+2. Create a folder named `data` in the project directory.
+3. Place `Data_Train.xlsx` inside the `data` folder.
+
+**Note:** The dataset is not included in this GitHub repository. Users need to download it separately.
 ## Installation and Setup
 
 ### 1. Clone the repository
